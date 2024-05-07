@@ -1,0 +1,11 @@
+{
+    "TOKEN": "токен доступа",
+    "account_id": "account_id",
+    "app_name": "YarickVodila",
+    "figi": "BBG006L8G4H1",
+    "is_open": true,
+    "quantity_stock": 12,
+    "is_create_new_account": false,
+    "start_balance": 50000,
+    "trans_commission": 0.03
+}
